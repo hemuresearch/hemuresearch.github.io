@@ -1,8 +1,8 @@
 # Tian Cheng, Ph.D.
 
-<img src="/images/20180101_logo.jpg" height="250" align="right"/>
+<!-- <img src="/images/20180101_logo.jpg" height="250" align="right"/> -->
 
-**Position**: Postdoctoral Researcher  
+**Position**: Researcher  
 **Email**: tian.cheng@aist.go.jp  
 **Research Group**: [Media Interaction Group](https://staff.aist.go.jp/m.goto/MIG/index-j.html), AIST  
 [Google Scholar](https://scholar.google.com/citations?user=Q7VkkF0AAAAJ&hl=en)
