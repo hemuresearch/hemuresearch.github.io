@@ -5,9 +5,9 @@ layout: default
 [^_^]:[Comparing RNN Parameters for Melodic Similarity](/publications/20180101)
 
 ## 2018
-Comparing RNN Parameters for Melodic Similarity, **Tian Cheng**, Satoru Fukayama, Masataka Goto, The 19th International Society for Music Information Retrieval Conference (ISMIR 2018), Sep. 2018. (to appear)
+Comparing RNN Parameters for Melodic Similarity, **Tian Cheng**, Satoru Fukayama, Masataka Goto, The 19th International Society for Music Information Retrieval Conference (ISMIR 2018), pp.763-770, Sep. 2018.
 
-Convolving Gaussian Kernels for RNN-based Beat Tracking, **Tian Cheng**, Satoru Fukayama, Masataka Goto, The 26th European Signal Processing Conference (EUSIPCO 2018), Sep. 2018. (to appear)
+Convolving Gaussian Kernels for RNN-based Beat Tracking, **Tian Cheng**, Satoru Fukayama, Masataka Goto, The 26th European Signal Processing Conference (EUSIPCO 2018), pp.1919-1923, Sep. 2018.
 
 Music Structure Boundary Detection and Labelling by a Deconvolution of Path-Enhanced Self-Similarity Matrix, **Tian Cheng**, Jordan Smith and Masataka Goto, Proceedings of the 43rd IEEE International Conference on Acoustics, Speech and Signal Processing (IEEE ICASSP 2018), pp.106-110, April 2018
 
