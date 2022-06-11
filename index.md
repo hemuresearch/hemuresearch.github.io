@@ -8,7 +8,10 @@
 - System Training
 - System Support
 - System Upgrade
+
+
 ### 2. AI-based data analysis services on financial data, time-series data, etc.
+
 ### Contact: hemuresearch@gmail.com
 
 <!-- <img src="/images/20180101_logo.jpg" height="250" align="right"/> -->
