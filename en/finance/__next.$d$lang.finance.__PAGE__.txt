@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"py-20 flex flex-col items-center text-center","children":[["$","span",null,{"className":"bg-indigo-100 text-indigo-800 text-sm font-semibold px-3 py-1 rounded-full mb-4","children":"Coming Soon"}],["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Personal Accounting Assistant Service"}],["$","p",null,{"className":"text-slate-500 max-w-md","children":"Your AI-powered personal accounting assistant is currently under development."}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"xu5lK34wmYG_HqkbQlxmN"}
+4:null
